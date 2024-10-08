@@ -6,16 +6,13 @@
 - Live Seat booking
 - Live Price Calculate
 - Animation (framer motion)
-- 
+  
 ## Tech Stack
 
 **Client:** ReactJs, ViteJs, TailwindCSS
 
 
 ## Screenshots
-
-![Screenshot_12-6-2024_113311_localhost](https://github.com/gtech-official08/bus-ticket-booking-setup/assets/127587520/b16296ca-cdf0-4ee0-860b-5db4ab440c72](https://github.com/hackedude/GBus/blob/469fb278da0b145bba82c6a8d0ea9a63c2f0d67e/src/assets/ss1.jpeg)
-
 
 ![Screenshot_12-6-2024_113619_localhost](https://github.com/gtech-official08/bus-ticket-booking-setup/assets/127587520/69afb87e-6b6d-4734-b1fb-06c70af0deb7)
 
